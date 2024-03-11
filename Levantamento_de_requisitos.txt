@@ -1,0 +1,38 @@
+LEVANTAMENTO DE REQUISITOS:
+
+
+FUNCIONAIS:
+-Criar uma aba que separa as roupas dos acessorios. 3
+-Criar um filtro de valor maximo e minimo. 3
+-Mostrar a quantidade de produtos restantes. 2
+
+
+NÃO FUNCIONAIS:
+-Cadastro em duas etapas para segurança na compra. 1
+-Desempenho do website. 1
+-Interface chamativa para clientes.
+
+REGRAS DE NEGÓCIO:
+-Confirmação de idade para efetuar compras. 1
+-validação de CPF 1
+-Informações de qualidade dos produtos.
+ 
+
+Analise
+-Informações de qualidade dos produtos. - errado   
+-Interface chamativa para clientes. - errado
+
+   Falta de requisitos 
+
+- Responsavidade 
+- Descrição da materia prima do produto
+- Filtrar coleções de roupas
+- Aba com tabela de medida
+- Aba de roupas no carrinho
+- Chat para suporte 
+
+Formalidade de registro
+-Informações de qualidade dos produtos/ Descrição da materia prima do produto
+
+
+
